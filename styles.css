@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+label {
+    margin-right: 10px;
+}
+
+input {
+    margin: 5px;
+}
+
+.matrix-cell {
+    width: 50px;
+    margin: 2px;
+}
+
+#transpose-output {
+    margin-top: 20px;
+}
+
+.transpose-cell {
+    display: inline-block;
+    width: 50px;
+    text-align: center;
+    margin: 2px;
+    border: 1px solid #ccc;
+    padding: 5px;
+}
